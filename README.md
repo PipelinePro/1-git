@@ -10,6 +10,6 @@ In addition to the foundational Git concepts, we will also cover some advanced t
 
 Please follow below table to begin:
 
-| Index | Description                                | Link           |
-| ----- | ------------------------------------------ | -------------- |
-| 1.    | Setup passwordless authentication with Git | [Click here]() |
+| Index | Description                                | Link                                                           |
+| ----- | ------------------------------------------ | -------------------------------------------------------------- |
+| 1.    | Setup passwordless authentication with Git | [Click here](https://github.com/PipelinePro/1-git/tree/main/1) |
