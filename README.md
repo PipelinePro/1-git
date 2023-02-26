@@ -1,5 +1,7 @@
 # Master Git by PipelinePro
 
+Join our telegram group for latest updates about projects: https://t.me/pipeline_pro
+
 Welcome to the PipelinePro DevOps project series on mastering Git! This project is composed of several smaller projects that are designed to help you gain a deep understanding of Git.
 
 We will be using GitHub as our repository provider, so it is important to have some prior knowledge of Git and how it works. This project is a great way to build on your existing knowledge and take it to the next level.
