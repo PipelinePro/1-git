@@ -19,3 +19,4 @@ Please follow below table to begin:
 | Index | Description                                | Link                                                           |
 | ----- | ------------------------------------------ | -------------------------------------------------------------- |
 | 1.    | Setup passwordless authentication with Git | [Click here](https://github.com/PipelinePro/1-git/tree/main/1) |
+| 2.    | Creation of a new repository               | [Click here](https://github.com/PipelinePro/1-git/tree/main/2) |
